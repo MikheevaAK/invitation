@@ -104,7 +104,7 @@
 
                     <Transition name="text">
                         <div v-if="showText" class="box__text">
-                           Ха-ха, а мы не скажем тебе :D
+                           Ха-ха, а мы не скажем :D
                            <br />
                            Мама тебя на такси привезет!)
                         </div>
