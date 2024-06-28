@@ -104,7 +104,9 @@
 
                     <Transition name="text">
                         <div v-if="showText" class="box__text">
-                           Сельскохозяйственная улица, 15с3
+                           Ха-ха, а мы не скажем тебе :D
+                           <br />
+                           Мама тебя на такси привезет!)
                         </div>
                     </Transition>
                 </div>
@@ -494,9 +496,9 @@ export default {
         text-align: center;
 
         @media (max-width: 768px) {
-            top: -14.44rem;
-            left: 17rem;
-            width: 63.71819rem;
+            top: -16.44rem;
+            left: 10rem;
+            width: 77.71819rem;
             transform: rotate(-5deg);
             color: #8377F1;
             font-weight: 400;
